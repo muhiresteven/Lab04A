@@ -6,10 +6,10 @@ using namespace std;
 
 // This program will ask the user to input the number of gallons used and the number of miles traveled by a car and then calculate the the miles per gallon the car gets.
 
-int main()
+ int main()
 
-{
-	int gallons, miles, result;
+
+{int gallons, miles, result;
 
 	cout << "Hello" << endl;
 	cout << "Miles per gallon calculator" << endl;
